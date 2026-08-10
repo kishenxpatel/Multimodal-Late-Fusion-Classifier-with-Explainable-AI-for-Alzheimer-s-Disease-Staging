@@ -6,8 +6,8 @@ A late-fusion multimodal classifier that stages patients as cognitively normal (
 
 Originally developed as an undergraduate dissertation (BSc Computer Science, University of Bath, 83/100), since revised into a journal manuscript.
 
-📄 Paper: *link to arXiv preprint / journal submission, once available*
-🔗 Portfolio write-up: *link to your website project page*
+📄 Paper: *coming soon!*
+🔗 Portfolio write-up: [kishenxpatel.com](https://www.kishenxpatel.com/) 
 
 ---
 
@@ -127,7 +127,7 @@ If you use this code or build on this work, please cite:
   author       = {Patel, Kishen},
   title        = {A Multimodal Late-Fusion Classifier with Explainable AI for Staging Alzheimer's Disease from Clinical, Genetic, and Biomarker Data},
   year         = {2024},
-  howpublished = {\url{PASTE_ARXIV_OR_REPO_LINK_HERE}}
+  howpublished = {\url{https://github.com/kishenxpatel/Multimodal-Late-Fusion-Classifier-with-Explainable-AI-for-Alzheimer-s-Disease-Staging/edit/main/README.md}}
 }
 ```
 
