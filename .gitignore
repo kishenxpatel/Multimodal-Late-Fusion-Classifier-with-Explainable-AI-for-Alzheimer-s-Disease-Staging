@@ -1,0 +1,6 @@
+*.csv
+*.vcf
+GeneticDataVCFs/
+*.pkl
+.ipynb_checkpoints/
+__pycache__/
